@@ -1,4 +1,2 @@
 # GeoData@SciLi
-Project and open data repo for GeoData@SciLi
-
-testing that Ethan can push changes
+This is the primary landing page for open data projects for GeoData@SciLi
