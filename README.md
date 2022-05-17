@@ -1,4 +1,4 @@
-# GeoData@SciLi Open Data and Project Files
+# GeoData@SciLi Open Data and Projects
 This page links to individual repositories that we use for our work at [GeoData@SciLi](https://libguides.brown.edu/gis/geodata_scili) to create free and open datasets and to support various projects. All of our repositories begin with the prefix "geodata" followed by an underscore and suffix that indicates the project name.
 
 ## Datasets
