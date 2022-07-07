@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 11,
+        "Title": "MICHELIN AUSTRALIA",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/13/2022",
+        "Country": "AUS",
+        "Type": "National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397843806966\">Michelin Australia</a>",
+        "marker-color": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135,
+          -25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 30,
+        "Title": "MICHELIN ENGLAND: SOUTHEAST, MIDLANDS & EAST ANGLIA",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/13/2022",
+        "Country": "GBR",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397943606966\">Michelin England: Southeast, Midlands & East Anglia</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5,
+          51.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 41,
+        "Title": "MICHELIN WALES, THE MIDLANDS, SOUTH WEST ENGLAND",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/13/2022",
+        "Country": "GBR",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397842206966\">Michelin Wales, The Midlands, South West England</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63,
+          50.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 54,
+        "Title": "MICHELIN THE WORLD",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/13/2022",
+        "Country": "",
+        "Type": "Global",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397841606966\">Michelin The World</a>",
+        "marker-color": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 12,
+        "Title": "MICHELIN BULGARIA",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2021,
+        "DateAdded": "6/21/2022",
+        "Country": "BUL",
+        "Type": "National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397843706966\">Michelin Bulgaria</a>",
+        "marker-color": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25,
+          42.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 21,
+        "Title": "MICHELIN ICELAND",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2016,
+        "DateAdded": "6/22/2022",
+        "Country": "ISL",
+        "Type": "National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397843006966\">Michelin Iceland</a>",
+        "marker-color": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18,
+          65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 45,
+        "Title": "MICHELIN NORTH FRANCE",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/22/2022",
+        "Country": "FRA",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397842006966\">Michelin North France</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3,
+          47.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 8,
+        "Title": "MICHELIN PORTUGAL: MADEIRA",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2019,
+        "DateAdded": "6/29/2022",
+        "Country": "PRT",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397944606966\">Michelin Portugal: Madeira</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.94699,
+          32.76737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 23,
+        "Title": "MICHELIN ITALY CENTRAL",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/29/2022",
+        "Country": "ITA",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397944206966\">Michelin Italy Central</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.24145,
+          42.83829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 29,
+        "Title": "MICHELIN ENGLAND: NORTH AND MIDLANDS",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/29/2022",
+        "Country": "GBR",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397943706966\">Michelin England: North And Midlands</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.30633,
+          51.46171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 31,
+        "Title": "MICHELIN GERMANY MIDEAST",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2013,
+        "DateAdded": "6/29/2022",
+        "Country": "DEU",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397842806966\">Michelin Germany Mideast</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.92922,
+          50.8357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 32,
+        "Title": "MICHELIN GERMANY MIDWEST",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2013,
+        "DateAdded": "6/29/2022",
+        "Country": "DEU",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397842706966\">Michelin Germany Midwest</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.09549,
+          50.73438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 33,
+        "Title": "MICHELIN GERMANY NORTHEAST",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2013,
+        "DateAdded": "6/29/2022",
+        "Country": "DEU",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397842606966\">Michelin Germany Northeast</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.06566,
+          52.39886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 35,
+        "Title": "MICHELIN GERMANY SOUTHEAST",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2013,
+        "DateAdded": "6/29/2022",
+        "Country": "DEU",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397943506966\">Michelin Germany Southeast</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5,
+          49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 37,
+        "Title": "MICHELIN NORTHEAST ITALY",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/29/2022",
+        "Country": "ITA",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397943406966\">Michelin Northeast Italy</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.75,
+          45.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 51,
+        "Title": "MICHELIN SPAIN CENTRAL, EXTREMADURA, CASTILLA-LA MANCHA, MADRID",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/29/2022",
+        "Country": "ESP",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397942806966\">Michelin Spain Central, Extremadura, Castilla-La Mancha, Madrid</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4,
+          39.83333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UID": 52,
+        "Title": "MICHELIN SPAIN NORTHEAST: CATALONIA, ARAGON, ANDORRA",
+        "Publisher": "MICHELIN TRAVEL",
+        "Year": 2012,
+        "DateAdded": "6/29/2022",
+        "Country": "ESP",
+        "Type": "Sub-National",
+        "LinkTitle": "<a href=\"https://bruknow.library.brown.edu/permalink/01BU_INST/ompo24/alma991043397942706966\">Michelin Spain Northeast: Catalonia, Aragon, Andorra</a>",
+        "marker-color": "yellow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.66667,
+          41.5
+        ]
+      }
+    }
+  ]
+}
