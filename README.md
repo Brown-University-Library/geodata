@@ -10,5 +10,6 @@ This page links to individual repositories that we use for our work at [GeoData@
 
 ## Projects
 * [GeoData@SciLi Metadata Scripts](https://github.com/Brown-University-Library/geodata_metadata_ogm) (public): our implementation of the Aardavrk metadata schema to produce YAML metadata records validated with Python's jsonschema.
+* [Map Inventory Project](https://github.com/Brown-University-Library/geodata_map_inventory) (public): program with GUI for inventorying our USGS topo maps.
 * [Gallup Microdata Processing](https://github.com/Brown-University-Library/geodata_gallup) (script public, data private): scripts for creating lists of variables and extracts of data from Gallup Microdata files.
 * [Stolen Relations Geocoding](https://github.com/Brown-University-Library/geodata_stolen_relations) (internal): script for looking up coordinates for place names that appear in historical records of indigenous enslavement in the Americas compiled by the [Stolen Relations](https://indigenousslavery.org/) project.
