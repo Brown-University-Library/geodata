@@ -5,7 +5,7 @@ This page links to individual repositories that we use for our work at [GeoData@
 * [UN ICSC Retail Price Indexes](https://github.com/Brown-University-Library/geodata_un_retail_idx) (public): time series of retail price indices that reflect the relative cost-of-living of United Nations staff at duty stations in countries around the world. The indices cover various categories of goods and services, and the data is initially captured quarterly, then every two months, from 2004 to the present.
 
 ## Tutorials
-* [Python API Examples](https://github.com/Brown-University-Library/geodata_api_tutorials): working Python scripts with sample output that illustrate how to use APIs. Examples include US census data, intraday stock trades, and metadata for New York Times articles.
+* [Python API Examples](https://github.com/Brown-University-Library/geodata_api_tutorials) (public): working Python scripts with sample output that illustrate how to use APIs. Examples include US census data, intraday stock trades, and metadata for New York Times articles.
 * [PDF Tutorials](https://github.com/Brown-University-Library/geodata_pdf_tutorials) (public): storage for text-based tutorials and sample data we create. Visit [Brown GIS and Data Tutorials](https://libguides.brown.edu/gis_data_tutorials) for formatted descriptions that link to these materials.
 
 ## Projects
