@@ -3,6 +3,7 @@ This page links to individual repositories that we use for our work at [GeoData@
 
 ## Datasets
 * [Ocean State Spatial Database](https://github.com/Brown-University-Library/geodata_ossdb) (public): a spatial database of contemporary features and census data for basic thematic mapping and analysis within Rhode Island.
+* [Providence Geocoded Crime Incidents](https://github.com/Brown-University-Library/geodata_pvdcrime) (public): geocoded data from the Providence Police Case Logs.
 * [UN ICSC Retail Price Indexes](https://github.com/Brown-University-Library/geodata_un_retail_idx) (public): time series of retail price indices that reflect the relative cost-of-living of United Nations staff at duty stations in countries around the world. The indices cover various categories of goods and services, and the data is initially captured quarterly, then every two months, from 2004 to the present.
 
 ## Tutorials
