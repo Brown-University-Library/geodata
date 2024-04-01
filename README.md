@@ -9,6 +9,7 @@ This page links to individual repositories that we use for our work at [GeoData@
 ## Tutorials
 * [Python API Examples](https://github.com/Brown-University-Library/geodata_api_tutorials) (public): working Python scripts with sample output that illustrate how to use APIs. Examples include US census data, intraday stock trades, and metadata for New York Times articles.
 * [PDF Tutorials](https://github.com/Brown-University-Library/geodata_pdf_tutorials) (public): storage for text-based tutorials and sample data we create. Visit [Brown GIS and Data Tutorials](https://libguides.brown.edu/gis_data_tutorials) for formatted descriptions that link to these materials.
+* [Using Google Earth Engine with Colab](https://github.com/Brown-University-Library/geodata_earthengine): working CoLab notebook and tutorial that demonstrates how to use GEE to access and process satellite imagery from LANDSAT, SENTINEL, MODIS and other series.
 
 ## Projects
 * [GeoData@SciLi Metadata Scripts](https://github.com/Brown-University-Library/geodata_metadata_ogm) (public): our implementation of the Aardavrk metadata schema to produce YAML metadata records validated with Python's jsonschema.
